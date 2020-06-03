@@ -1,0 +1,12 @@
+author: Venomspinner
+created: 20161109031055215
+dependents: $:/themes/tiddlywiki/vanilla
+description: A minimalist, mobile responsive theme for blogging
+list: 
+modified: 20200603013232977
+name: Ghostwriter
+plugin-type: theme
+source: https://ibnishak.github.io/irreverent-mudblood/
+title: $:/plugins/venomspinner/ghostwriter
+type: application/json
+version: 1.0.9
